@@ -1,7 +1,7 @@
 let palavra;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1990, 1000);
 
   palavra = palavraAleatoria();
 }
